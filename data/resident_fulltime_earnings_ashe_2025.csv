@@ -1,0 +1,34 @@
+code,borough,year,median_gross_weekly_fulltime_gbp,median_gross_weekly_fulltime_male_gbp,median_gross_weekly_fulltime_female_gbp,monthly_equivalent_gbp,source_url
+E09000002,Barking & Dagenham,2025,754.1,759.7,750.8,3267.77,https://www.nomisweb.co.uk/reports/lmp/lad/1778385161/report.aspx
+E09000003,Barnet,2025,905.4,962.3,847.1,3923.4,https://www.nomisweb.co.uk/reports/lmp/lad/1778385162/report.aspx
+E09000004,Bexley,2025,889.1,950.1,834.5,3852.77,https://www.nomisweb.co.uk/reports/lmp/lad/1778385163/report.aspx
+E09000005,Brent,2025,786.2,804.6,766.6,3406.87,https://www.nomisweb.co.uk/reports/lmp/lad/1778385164/report.aspx
+E09000006,Bromley,2025,964.5,1014.8,922.8,4179.5,https://www.nomisweb.co.uk/reports/lmp/lad/1778385165/report.aspx
+E09000007,Camden,2025,1032.4,1094.3,958.2,4473.73,https://www.nomisweb.co.uk/reports/lmp/lad/1778385166/report.aspx
+E09000008,Croydon,2025,855.7,862.1,839.0,3708.03,https://www.nomisweb.co.uk/reports/lmp/lad/1778385167/report.aspx
+E09000009,Ealing,2025,808.1,845.7,779.7,3501.77,https://www.nomisweb.co.uk/reports/lmp/lad/1778385168/report.aspx
+E09000010,Enfield,2025,865.1,878.0,847.3,3748.77,https://www.nomisweb.co.uk/reports/lmp/lad/1778385169/report.aspx
+E09000011,Greenwich,2025,902.8,946.7,826.1,3912.13,https://www.nomisweb.co.uk/reports/lmp/lad/1778385170/report.aspx
+E09000012,Hackney,2025,959.3,1021.1,905.7,4156.97,https://www.nomisweb.co.uk/reports/lmp/lad/1778385171/report.aspx
+E09000013,Hammersmith & Fulham,2025,917.3,1017.6,845.3,3974.97,https://www.nomisweb.co.uk/reports/lmp/lad/1778385172/report.aspx
+E09000014,Haringey,2025,900.8,940.8,862.1,3903.47,https://www.nomisweb.co.uk/reports/lmp/lad/1778385173/report.aspx
+E09000015,Harrow,2025,880.0,916.2,800.4,3813.33,https://www.nomisweb.co.uk/reports/lmp/lad/1778385174/report.aspx
+E09000016,Havering,2025,895.8,996.5,820.7,3881.8,https://www.nomisweb.co.uk/reports/lmp/lad/1778385175/report.aspx
+E09000017,Hillingdon,2025,806.8,840.5,795.0,3496.13,https://www.nomisweb.co.uk/reports/lmp/lad/1778385176/report.aspx
+E09000018,Hounslow,2025,807.5,829.1,778.4,3499.17,https://www.nomisweb.co.uk/reports/lmp/lad/1778385177/report.aspx
+E09000019,Islington,2025,1005.0,1082.0,971.1,4355.0,https://www.nomisweb.co.uk/reports/lmp/lad/1778385178/report.aspx
+E09000020,Kensington & Chelsea,2025,1022.6,1137.8,933.1,4431.27,https://www.nomisweb.co.uk/reports/lmp/lad/1778385179/report.aspx
+E09000021,Kingston upon Thames,2025,953.2,998.9,871.3,4130.53,https://www.nomisweb.co.uk/reports/lmp/lad/1778385180/report.aspx
+E09000022,Lambeth,2025,946.6,958.2,919.0,4101.93,https://www.nomisweb.co.uk/reports/lmp/lad/1778385181/report.aspx
+E09000023,Lewisham,2025,891.8,889.9,900.8,3864.47,https://www.nomisweb.co.uk/reports/lmp/lad/1778385182/report.aspx
+E09000024,Merton,2025,994.3,1037.7,920.2,4308.63,https://www.nomisweb.co.uk/reports/lmp/lad/1778385183/report.aspx
+E09000025,Newham,2025,822.2,880.4,766.6,3562.87,https://www.nomisweb.co.uk/reports/lmp/lad/1778385184/report.aspx
+E09000026,Redbridge,2025,862.4,1002.8,726.7,3737.07,https://www.nomisweb.co.uk/reports/lmp/lad/1778385185/report.aspx
+E09000027,Richmond upon Thames,2025,1056.6,1108.1,983.1,4578.6,https://www.nomisweb.co.uk/reports/lmp/lad/1778385186/report.aspx
+E09000028,Southwark,2025,939.9,969.0,908.9,4072.9,https://www.nomisweb.co.uk/reports/lmp/lad/1778385187/report.aspx
+E09000029,Sutton,2025,852.0,882.8,804.2,3692.0,https://www.nomisweb.co.uk/reports/lmp/lad/1778385188/report.aspx
+E09000030,Tower Hamlets,2025,996.6,1039.5,958.2,4318.6,https://www.nomisweb.co.uk/reports/lmp/lad/1778385189/report.aspx
+E09000031,Waltham Forest,2025,900.8,942.2,839.0,3903.47,https://www.nomisweb.co.uk/reports/lmp/lad/1778385190/report.aspx
+E09000032,Wandsworth,2025,1016.6,1184.5,907.7,4405.27,https://www.nomisweb.co.uk/reports/lmp/lad/1778385191/report.aspx
+E09000033,Westminster,2025,1015.5,1043.4,955.1,4400.5,https://www.nomisweb.co.uk/reports/lmp/lad/1778385192/report.aspx
+E12000007,London,2025,902.7,956.2,859.3,3911.7,https://www.nomisweb.co.uk/reports/lmp/lad/1778385161/report.aspx
